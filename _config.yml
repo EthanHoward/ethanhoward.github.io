@@ -1,1 +1,10 @@
-theme: jekyll-theme-midnight
+title: Knowledgebase
+description: Personal Notes, Tips & Tricks I tend to forget.
+
+remote_theme: abhinavs/moonwalk
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-remote-theme
