@@ -1,5 +1,5 @@
 # Windows 11 Tools, Tips & Tricks
-
+> Tips, Tricks & Tools for Windows. Plus some disambiguations as Microsoft loves ambiguity - seemingly.
 ## Bypassing NRO / Internet-Required Onboard
 Getting past internet required onboarding when installing  Windows 11
 
