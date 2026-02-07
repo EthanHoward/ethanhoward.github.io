@@ -1,10 +1,24 @@
 title: Knowledgebase
-description: Personal Notes, Tips & Tricks I tend to forget.
+description: Personal Notes, Tips & Tricks I tend to forget
 
-remote_theme: abhinavs/moonwalk
+remote_theme: just-the-docs/just-the-docs
+
+
+color_scheme: dark
+primary_color: "#FF0000"
+
+# Sidebar auto from folder structure
+just_the_docs:
+  homepage: index.md
+  logo: assets/icon.svg     # optional
+  show_download: false
+  navigation:
+    # Auto-navigation from the docs folder
+    auto: true
 
 markdown: kramdown
 permalink: pretty
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed

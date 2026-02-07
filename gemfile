@@ -1,3 +1,18 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
+
+# Use the GitHub Pages gem to match the versions supported by GitHub
 gem "github-pages", group: :jekyll_plugins
+
+# Optional: Remote theme support
 gem "jekyll-remote-theme"
+
+# Optional: Markdown flavors
+gem "kramdown-parser-gfm"
+
+# Optional: Syntax highlighting
+gem "rouge"
+
+# For local server on Windows/Linux
+gem "webrick"
