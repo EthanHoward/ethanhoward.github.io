@@ -16,6 +16,12 @@ just_the_docs:
     # Auto-navigation from the docs folder
     auto: true
 
+
+
+collections:
+  docs:
+    output: true
+
 markdown: kramdown
 permalink: pretty
 

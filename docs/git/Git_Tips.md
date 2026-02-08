@@ -1,6 +1,29 @@
-# Git CLI
-> I Forget this stuff all the time
+---
+title: GIT CLI Tips
+---
 
+ Git CLI
+> It's not the whole docs to git and certainly not how they'd write it - which is over-complicated and generally painful to read (in my opinion).
+
+## Create a repo
+<pre>git init .</pre>
+This makes a git repo in the current directory of your CMD/Terminal
+
+## Add files
+<pre>git add &gt;filename&lt;</pre>
+This adds one file or directory
+
+<pre>git add .</pre>
+This adds everything in the current directory, obviously listening to .gitignore
+
+## Commit
+<pre>git commit -m "Some message here!!"</pre>
+This commits to the local repository, essentially stages changes to be pushed.
+
+## Push
+<pre>git push</pre>
+This pushes changes to a remote repository, if you have one set.
+If you don't have a remote repository set, it will just winge at you.
 
 ## Unstage (remove) all current files from the current commit
 <pre>git reset --soft HEAD~1</pre>
@@ -32,3 +55,4 @@ This unstages the file then it restores the conflict markers - mainly if you mer
 ## Push resolved merges
 <pre>git push origin main</pre>
 'main' refers to your current branch (usually main in my case)
+dsafhsgdsfhgdafsdsadasd
