@@ -2,7 +2,7 @@
 title: GIT CLI Tips
 ---
 
- Git CLI
+# Git CLI Tips
 > It's not the whole docs to git and certainly not how they'd write it - which is over-complicated and generally painful to read (in my opinion).
 
 ## Create a repo

@@ -2,7 +2,7 @@
 title: Photography - Exposure
 ---
 
-Photography - Exposure
+# Photography - Exposure
 
 Exposure can be one of the hardest things for new photographers to nail down, once you get that initial break, and it all starts to make sense, it becomes so very easy. Once you get exposure nailed, you still will mess it up, and sometimes it'll ruin that one irreplaceable scene or frame, and other times it might make one of your best pieces to-date, that's the art in photography.
 
