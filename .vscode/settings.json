@@ -1,0 +1,6 @@
+{
+    "languageToolLinter.languageTool.disabledRules": "EN_UNPAIRED_BRACKETS,OXFORD_SPELLING_Z_NOT_S",
+    "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+        "number&gt"
+    ]
+}
