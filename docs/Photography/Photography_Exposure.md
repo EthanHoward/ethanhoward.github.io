@@ -144,3 +144,9 @@ LDR images will likely benefit from some adjustment of light levels, contrast an
 Please note that Contrast and Dynamic Range are NOT proportionate, you can have a Low Contrast HDR scene.
 
 Most cameras these days can do HDR imagery in-body but require a tripod or a support, where it can take three or more photographs of different exposure levels, to combine to one nicely exposed image which is also HDR. Typically referred to either as Exposure Bracketing. There's also ways to manually bracket your photos (take a few underexposed, one or two correct and a few overexposed) and combine them in post-processing too, Lightroom can do it.
+
+
+<!-- @IGNORE:MORFOLOGIK_RULE_EN_GB@ -->
+If you'd like a bit of help with photography, or are really struggling, feel free to drop me an email, I might be able to help. 
+<!-- @IGNORE:MORFOLOGIK_RULE_EN_GB@ -->
+- ethan (at) howardphotography.uk
